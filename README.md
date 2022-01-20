@@ -1,6 +1,6 @@
 # Projeto de site para Incêndios Florestais
 
-Repositório do projeto de um site para a cadeira de Tecnologias Web, do 2º ano do curso de TCM do ISMAI. Desenvolvido pelo Grupo 8: [@FábioMaia](https://github.com/A036142), [@PaulaVieiraRocha](https://github.com/PaulaVieiraRocha), [@YanickCruz](https://github.com/YanickCruz), [@MarleyLizardo].
+Repositório do projeto de um site para a cadeira de Tecnologias Web, do 2º ano do curso de TCM do ISMAI. Desenvolvido pelo Grupo 8: [@FábioMaia](https://github.com/A036142), [@PaulaVieiraRocha](https://github.com/PaulaVieiraRocha), [@YanickCruz](https://github.com/YanickCruz), [@MarleyLizardo](https://github.com/MarleyLizardo).
 
 ## Pequena descrição do tema
 
@@ -39,4 +39,4 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 * Fábio Maia [@FábioMaia](https://github.com/A036142)
 * Paula Rocha [@PaulaVieiraRocha](https://github.com/PaulaVieiraRocha)
 * Yanick Cruz [@YanickCruz](https://github.com/YanickCruz)
-* Marley Lizardo [@MarleyLizardo]
+* Marley Lizardo [@MarleyLizardo](https://github.com/MarleyLizardo)
