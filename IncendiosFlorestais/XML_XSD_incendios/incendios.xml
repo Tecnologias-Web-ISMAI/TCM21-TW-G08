@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<incendios xmlns ="http://www.incendios.org"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.incendios.org
+                             incendios.xsd">
+                            
+                             <incendio>
+
+                                <pais>Portugal</pais>
+                                
+                                <local>Seia</local>
+
+                                <ano>2006</ano>
+                                
+                                <area>600</area>
+                                
+                                <scie>41.95</scie>
+                                
+                                </incendio>
+
+
+
+
+                                <incendio>
+   
+                                   <pais>Portugal</pais>
+                                   
+                                   <local>Viseu</local>
+
+                                   <ano>2013</ano>
+                                   
+                                   <area>500</area>
+                                   
+                                   <scie>90.56</scie>
+                                   
+                                   </incendio>
+
+
+
+                                   
+                             <incendio>
+
+                                <pais>Portugal</pais>
+                                
+                                <local>Madeira</local>
+
+                                <ano>2016</ano>
+                                
+                                <area>700</area>
+                                
+                                <scie>100.60</scie>
+                                
+                                </incendio>
+
+
+
+                                
+                             <incendio>
+
+                                <pais>Portugal</pais>
+                                
+                                <local>Pedrogão Grande</local>
+
+                                <ano>2017</ano>
+                                
+                                <area>1000</area>
+                                
+                                <scie>413.75</scie>
+                                
+                                </incendio>
+
+
+
+                                
+                             <incendio>
+
+                                <pais>Portugal</pais>
+                                
+                                <local>Oliveira do Hospital</local>
+
+                                <ano>2017</ano>
+                                
+                                <area>600</area>
+                                
+                                <scie>48.95</scie>
+                                
+                                </incendio>
+
+
+
+                                
+                             <incendio>
+
+                                <pais>Portugal</pais>
+                                
+                                <local>Monchique</local>
+
+                                <ano>2018</ano>
+                                
+                                <area>300</area>
+                                
+                                <scie>71.92</scie>
+                                
+                                </incendio>
+
+
+
+                                
+                             <incendio>
+
+                                <pais>Portugal</pais>
+                                
+                                <local>Castro Marim</local>
+
+                                <ano>2021</ano>
+                                
+                                <area>600</area>
+                                
+                                <scie>61.05</scie>
+                                
+                                </incendio>
+     
+     
+
+</incendios>

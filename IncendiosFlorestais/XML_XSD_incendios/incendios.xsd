@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+ targetNamespace="http://www.incendios.org"
+ xmlns="http://www.incendios.org"
+ elementFormDefault="qualified">
+ 
+ <xs:element name="incendios"  >
+  <xs:complexType>
+   <xs:sequence>
+   <xs:element name="incendio" maxOccurs="unbounded"    >
+  <xs:complexType>
+   <xs:sequence>
+   <xs:element name="pais" type="xs:string" />
+   
+  
+   <xs:element name="local" type="xs:string" />
+
+   
+   <xs:element name="ano"  maxOccurs="unbounded" >
+    <xs:simpleType>
+    <xs:restriction base="xs:integer">
+    <xs:minInclusive value="1990" />
+    <xs:maxInclusive value="2022" />
+    </xs:restriction>
+    </xs:simpleType>
+   </xs:element>
+
+   <xs:element name="area" type="xs:nonNegativeInteger" minOccurs="0" />
+   
+  <xs:element name="scie"  maxOccurs="unbounded" >
+   <xs:simpleType>
+   <xs:restriction base="xs:decimal">
+   <xs:minInclusive value="0" />
+   <xs:maxInclusive value="1000" />
+   </xs:restriction>
+   </xs:simpleType>
+  </xs:element>
+  
+  
+   </xs:sequence>
+   </xs:complexType>
+  </xs:element>
+   </xs:sequence>
+   </xs:complexType>
+   </xs:element>
+  </xs:schema>
